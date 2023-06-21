@@ -2,7 +2,7 @@
 An exploratory data analysis that aims to provide insights into the impact of the pandemic thus gaining a comprehensive understanding of 
 the Covid-19 situation worldwide and its impact in Kenya in terms of deaths, new cases, testing and vaccinations. 
   
-**Data Sourced from : [ourworldindata.org_Covid-19 Data]([url](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false))**
+**Data Sourced from : [ourworldindata.org_Covid-19 Data](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&country=USA~GBR~CAN~DEU~ITA~IND&pickerSort=asc&pickerMetric=location&Metric=Confirmed+cases&Interval=7-day+rolling+average&Relative+to+Population=true&Color+by+test+positivity=false)**
 
 The analysis was done using MSSQL.The Key Highlights of the analysis include: 
 ### Global Impact of Covid 19:Deaths and Infection  
@@ -27,4 +27,4 @@ and vaccinate its people against Covid-19 disease is moderatley impactful Kenya 
 and only 3% received booster shots.With a population of about 54 million,the numbers are not as high as one would deem ideal however
 vaccination is still ongoing.  
 
-***The visualization of this analysis done in Tableau and can be viewed [here]([url](https://public.tableau.com/app/profile/ethel.ogallo/viz/Covid-19DataExploration_16872965629290/Covid-19ImpactDataExploration?publish=yes)https://public.tableau.com/app/profile/ethel.ogallo/viz/Covid-19DataExploration_16872965629290/Covid-19ImpactDataExploration?publish=yes)***
+***The visualization of this analysis done in Tableau and can be viewed [here](https://public.tableau.com/app/profile/ethel.ogallo/viz/Covid-19DataExploration_16872965629290/Covid-19ImpactDataExploration?publish=yes)
