@@ -27,3 +27,4 @@ and vaccinate its people against Covid-19 disease is moderatley impactful Kenya 
 and only 3% received booster shots.With a population of about 54 million,the numbers are not as high as one would deem ideal however
 vaccination is still ongoing.  
 
+***The visualization of this analysis done in Tableau and can be viewed [here]([url](https://public.tableau.com/app/profile/ethel.ogallo/viz/Covid-19DataExploration_16872965629290/Covid-19ImpactDataExploration?publish=yes)https://public.tableau.com/app/profile/ethel.ogallo/viz/Covid-19DataExploration_16872965629290/Covid-19ImpactDataExploration?publish=yes)***
